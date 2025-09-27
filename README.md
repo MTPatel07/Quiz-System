@@ -2,7 +2,6 @@
 
 A beautiful, full-featured quiz application built with Next.js, TypeScript, and Supabase. Perfect for educational institutions, training programs, or any scenario requiring online assessments.
 
-![QuizMaster Preview](https://via.placeholder.com/800x400/3b82f6/ffffff?text=QuizMaster+-+Modern+Quiz+System)
 
 ## ✨ Features
 
